@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Color" max_length="40" name="x_snc_dev_clone_color" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Hex Code" max_length="40" name="hex_code" type="string"/>
+    </element>
+</database>
